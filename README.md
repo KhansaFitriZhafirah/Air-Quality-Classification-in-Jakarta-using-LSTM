@@ -1,6 +1,3 @@
-# Air-Quality-Classification-in-Jakarta-using-LSTM
-Final project for Data Mining course at IPB University. This project aims to classify air quality conditions in Jakarta based on historical ISPU data using an LSTM model. Achieved 83.45% accuracy in multiclass classification with multivariate time series data.
-
 # 🌫️ Air Quality Classification in Jakarta using LSTM
 
 This project is the final assignment of the **Data Mining (KOM1338)** course at IPB University. We aimed to classify air quality conditions in **Jakarta** based on historical ISPU data using the **Long Short-Term Memory (LSTM)** model based on historical air pollution data from 2010 to 2021. The dataset is sourced from the Jakarta Environmental Agency and focuses on multivariate time-series data involving pollutants such as PM10, PM2.5, CO, SO₂, NO₂, and O₃.
